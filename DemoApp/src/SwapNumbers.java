@@ -16,5 +16,6 @@ b = a ^ b;
 a = a ^ b;  
 System.out.println("After swapping:");  
 System.out.print("a = " +a +", b = " +b);  
+System.out.println("Swapping was completed");
 }  
 }  
